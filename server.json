@@ -15,6 +15,14 @@
             "category": "Alimentação",
             "price": 50,
             "createdAt": "2022-10-10T17:18:38.494Z"
+        },
+        {
+            "id": 3,
+            "description": "Coquinha",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 8,
+            "createdAt": "2022-10-10T17:24:38.494Z"
         }
     ]
 }
