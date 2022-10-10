@@ -5,7 +5,7 @@
             "description": "Desenvolvimento de site",
             "type": "income",
             "category": "Venda",
-            "price": 14000,
+            "price": 1000,
             "createdAt": "2022-10-10T17:17:38.494Z"
         },
         {
@@ -23,6 +23,6 @@
             "category": "Alimentação",
             "price": 8,
             "createdAt": "2022-10-10T17:24:38.494Z"
-        }
+        }        
     ]
 }
