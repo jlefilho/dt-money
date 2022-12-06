@@ -35,7 +35,13 @@ cd dt-money
 npm install
 ```
 
-4. Execute o projeto:
+4. Suba o server:
+
+```bash
+npm run dev:server
+```
+
+5. Execute o projeto:
 
 ```bash
 npm run dev

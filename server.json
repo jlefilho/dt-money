@@ -18,14 +18,14 @@
     },
     {
       "id": 3,
-      "description": "Coquinha",
+      "description": "Coca-cola",
       "type": "outcome",
       "category": "Alimentação",
       "price": 8,
       "createdAt": "2022-10-10T17:24:38.494Z"
     },
     {
-      "description": "Cheetos",
+      "description": "Salgadinho",
       "price": 5,
       "category": "Alimentação",
       "type": "outcome",
@@ -34,7 +34,7 @@
     },
     {
       "description": "Salário",
-      "price": 3000,
+      "price": 5000,
       "category": "Salário",
       "type": "income",
       "createdAt": "2022-10-11T12:45:12.623Z",
